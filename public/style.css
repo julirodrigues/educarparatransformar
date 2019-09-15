@@ -1,0 +1,100 @@
+.titulo_evento {
+    text-align: center;
+}
+.div-saiba-mais {
+    margin: 4% 1% 2%;
+}
+
+.div-quero-contribuir {
+    margin: 4% 1% 2%;
+}
+
+.div-saiba-mais {
+    margin: 4% 1% 2%;
+}
+
+#btn-comprar {
+    background-color: #EE4266;
+    border-color: #EE4266;
+    border-radius: 12px;
+    font-weight: bold;
+}
+
+#btn-saiba-mais {
+    background-color: #EE4266;
+    border-color: #ff9b32;
+    border-radius: 12px;
+    font-weight: bold;
+}
+
+#btn-quero-contribuir {
+    background-color: Transparent;
+    cursor: pointer;
+    overflow: hidden;
+    border-color: #FFF;
+    border-radius: 12px;
+    font-weight: bold;
+}
+
+#btn-agenda {
+    background-color: Transparent;
+    cursor: pointer;
+    overflow: hidden;
+    border-color: #3a3a3a;
+    border-radius: 12px;
+    font-weight: bold;
+}
+
+.head-introducao {
+    background-image: url("img/menino1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.logo {
+    margin-top: 4%;
+    margin-bottom: 4%;
+}
+
+h1 {
+    color: #fff;
+    font-size: 55px;
+}
+p {
+    color: #fff;
+    text-shadow: 1px 1px #333;
+    font-size: 18px;
+}
+
+#div-botoes {
+    margin-top: 8%;
+}
+
+#div-mais-informacoes {
+    background-color: #fff;
+    padding-top: 3%;
+}
+
+#div-mais-informacoes p {
+    text-shadow: 0px 0px #333;
+    color: #000;
+}
+
+#div-mais-informacoes h2 {
+    color: #ff9b32;
+    font-weight: bold;
+}
+
+#div-mais-informacoes h3 {
+    color: #ffb41d;
+    font-weight: bold;
+}
+
+#div-mais-informacoes h4 {
+    color: #ffb41d;
+    font-weight: bold;
+}
+
+#div-mais-informacoes h5 {
+    color: #ff9b32;
+}
